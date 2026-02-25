@@ -13,12 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="SSAx.PrimitiveExtensions">
-      <HintPath>..\..\..\ssax-primitive-extensions\src\SSAx.PrimitiveExtensions\bin\Debug\netstandard2.0\SSAx.PrimitiveExtensions.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\DataTableComparison\DataTableComparison.csproj" />
   </ItemGroup>
 
